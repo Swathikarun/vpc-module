@@ -1,3 +1,3 @@
 # vpc-module
 
-A module for vpc is created
+A terraform module for vpc is created
